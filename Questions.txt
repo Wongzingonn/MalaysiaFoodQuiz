@@ -1,0 +1,4 @@
+1:A:Nasi Lemak is traditionally served with which leaf?:Banana Leaf:Pandan Leaf:Curry Leaf:Lemongrass Leaf
+2:B:Which Malaysian state is famous for Asam Laksa?:Sabah:Penang:Johor:Perlis
+3:D:What Malaysian delicacy is shown in the image?:Roti Canai:Nasi Kerabu:Char Kuey Teow:Satay
+4:C:Which Malaysian dessert is shown in the image?:Cendol:Ais Kacang:Dodol:Kuih Lapis
